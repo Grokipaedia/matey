@@ -1,19 +1,18 @@
 # matey
 
-**Your personal AI companion — Tamagotchi-style for developers**
+**Your Tamagotchi-style AI coding companion**
 
 Inspired by the "Buddy" system from the Anthropic Claude Code leak.
 
-Matey hangs out in your terminal, helps with debugging, gives sarcastic or encouraging feedback, tracks your coding sessions, and levels up over time.
+Matey lives in your terminal, helps with debugging, gives witty or sarcastic feedback, tracks your progress, and levels up over time.
 
-While everyone builds more powerful agents, Matey brings the fun and personality.
+While others build more powerful agents, Matey brings personality and fun to coding.
 
 ## Features
-- Personality with 4 stats: Debugging, Patience, Chaos, Wisdom
-- Daily interactions and mood system
-- Witty advice and debugging suggestions
-- Simple leveling system
-- Easy to run in terminal or integrate into agents
+- 4 stats: Debugging, Patience, Chaos, Wisdom
+- Mood system and witty advice
+- Simple leveling based on interactions
+- Fun terminal interface with Rich
 
 ## Quick Start
 ```bash
